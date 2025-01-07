@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+header {
+    background-color: #4caf50;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+.image img {
+    width: 200px;
+    height: auto;
+}
+footer {
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+    background-color: #f8f8f8;
+}
